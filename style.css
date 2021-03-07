@@ -31,6 +31,7 @@ form button {
   color: #ff6f47;
   background: #f7fffe;
   cursor: pointer;
+  padding: 0.65rem;
   transition: all 0.3s ease;
 }
 form button:hover {
